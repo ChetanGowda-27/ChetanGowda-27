@@ -7,7 +7,7 @@ I'm **Chetan Gowda**, an Information Science and Engineering student , passionat
 ## 📬 Contact Information
 - **Email**: [chetangowda.2710@gmail.com](mailto:chetangowda.2710@gmail.com)
 - **LinkedIn**: [linkedin.com/in/chetan-gowda-2708-cg](https://www.linkedin.com/in/chetan-gowda-0a8495262/)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: [github.com/ChetanGowda-27]((https://github.com/ChetanGowda-27))
 
 ## 🛠️ Technical Skills
 - **Programming**: Python (Pandas, NumPy, SciPy, scikit-learn, Seaborn, Matplotlib), Java (Core & Advanced), JavaScript, Node.js
