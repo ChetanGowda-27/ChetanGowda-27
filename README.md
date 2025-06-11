@@ -6,7 +6,7 @@ I'm **Chetan Gowda**, an Information Science and Engineering student , passionat
 
 ## 📬 Contact Information
 - **Email**: [chetangowda.2710@gmail.com](mailto:chetangowda.2710@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **LinkedIn**: [linkedin.com/in/chetan-gowda-2708-cg](https://www.linkedin.com/in/chetan-gowda-0a8495262/)
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
 ## 🛠️ Technical Skills
@@ -41,7 +41,7 @@ I'm **Chetan Gowda**, an Information Science and Engineering student , passionat
 - Led a predictive modeling project with **Python** and **scikit-learn**, achieving **90% accuracy** on a 10,000-record dataset for business trend forecasting.
 - Designed an interactive **Power BI** dashboard with **SQL**, praised by academic evaluators for real-time KPI analysis.
 - Participated in Kaggle’s Titanic Dataset Competition, building a predictive model with **85% accuracy** (update with actual participation details).
-- Won 2nd place in a college hackathon for a real-time sales dashboard using **Power BI** (update with actual achievement).
+
 
 ## 🌈 Interests & Hobbies
 - **Areas of Interest**: Data Science, Machine Learning, Business Intelligence
