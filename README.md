@@ -19,7 +19,7 @@ I'm **Chetan Gowda**, an Information Science and Engineering student , passionat
 ## 🚀 Projects
 ### [Bank Loan Analysis Dashboard](https://github.com/ChetanGowda-27/BankLoanDashboard.git)
 
-- Developed three interactive dashboards (**Summary**, **Overview**, **Detail**) in **Tableau** using slicers, drill-downs, and KPI cards to visualize key loan metrics.
+- Developed three interactive dashboards (**Summary**, **Overview**, **Detail**) in **Power BI** using slicers, drill-downs, and KPI cards to visualize key loan metrics.
 - Utilized **SQL** for data extraction and **Power BI DAX** for calculated measures (where applicable), delivering insights into loan performance and risk trends.
 - **Impact**: Enabled stakeholders to make data-driven decisions through clear, actionable visualizations.
 
