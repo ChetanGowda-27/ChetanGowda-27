@@ -17,10 +17,12 @@ I'm **Chetan Gowda**, an Information Science and Engineering student , passionat
 - **Other**: RESTful APIs, BeautifulSoup, DAX
 
 ## 🚀 Projects
-### [Bank Loan Analysis Dashboard]([https://github.com/yourusername/bank-loan-analysis](https://github.com/ChetanGowda-27/BankLoanDashboard.git))
-- Developed three interactive dashboards (Summary, Overview, Detail) in **Tableau** with slicers, drill-downs, and KPI cards to visualize loan metrics.
-- Used **SQL** for data extraction and **Power BI/Tableau DAX** for calculated measures, providing insights into loan performance and risk trends.
-- **Impact**: Enhanced stakeholder decision-making with clear, actionable visualizations.
+### [Bank Loan Analysis Dashboard](https://github.com/ChetanGowda-27/BankLoanDashboard.git)
+
+- Developed three interactive dashboards (**Summary**, **Overview**, **Detail**) in **Tableau** using slicers, drill-downs, and KPI cards to visualize key loan metrics.
+- Utilized **SQL** for data extraction and **Power BI DAX** for calculated measures (where applicable), delivering insights into loan performance and risk trends.
+- **Impact**: Enabled stakeholders to make data-driven decisions through clear, actionable visualizations.
+
 
 ### [Predicting SpaceX’s Falcon 9 Stage Landings](https://github.com/yourusername/spacex-falcon9)
 - Built a machine learning model to predict Falcon 9 first-stage landing success using a dataset of 100+ launches, achieving **88.92% accuracy** with **Decision Tree**.
