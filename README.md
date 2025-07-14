@@ -24,7 +24,7 @@ I'm **Chetan Gowda**, an Information Science and Engineering student , passionat
 - **Impact**: Enabled stakeholders to make data-driven decisions through clear, actionable visualizations.
 
 
-### [Predicting SpaceX’s Falcon 9 Stage Landings]([https://github.com/yourusername/spacex-falcon9](https://github.com/ChetanGowda-27/Predicting-SpaceX-Falcon-s-First-Stage-Success.git))
+### [Predicting SpaceX’s Falcon 9 Stage Landings](https://github.com/yourusername/spacex-falcon9](https://github.com/ChetanGowda-27/Predicting-SpaceX-Falcon-s-First-Stage-Success.git)
 - Built a machine learning model to predict Falcon 9 first-stage landing success using a dataset of 100+ launches, achieving **88.92% accuracy** with **Decision Tree**.
 - Extracted data via **RESTful API** and **BeautifulSoup**, performing EDA with **Pandas** and **Matplotlib**.
 - Visualized geospatial patterns using **Folium**, **Seaborn**, and **Power BI**.
